@@ -1,0 +1,11 @@
+{
+  "reader": {
+    "salt": "a44b12573254450138acfebb35ce8540",
+    "passwordHash": "a1e7395b27964c09fa8a6f8f82aecb73822a10178dbffedb1f55f484be7d640041f0f8f63afdae68b0531ae7ce3fdac9c3fbcd4d7011f19e97a3489fc5c96e41"
+  },
+  "admin": {
+    "username": "Turboot21",
+    "salt": "18cc3cc8775eb603d33241e1d133528c",
+    "passwordHash": "1f9cf96467e1f51f51cf271355ffbe52114f10961f9577b73cb1b6d1769144333c69382241e8b85461b11d0b37b52dbe408a991b15336491178ad446be081126"
+  }
+}
